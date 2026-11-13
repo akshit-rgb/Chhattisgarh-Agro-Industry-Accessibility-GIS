@@ -9,12 +9,25 @@ An end-to-end, reproducible, block-level agro-industry discovery, spatial access
 
 ---
 
-## 🌾 Interactive GIS Map Portal
-The interactive Leaflet/Folium web map displays all 146 blocks with travel-time isochrones, agro-industrial facilities, logistics cost choropleths, and optimal locations for new FPO processing units.
+## 🌾 Interactive GIS Map Portal & Cartographic Atlas
+
+The repository provides both interactive Leaflet/Folium web maps and publication-grade 300 DPI static cartographic maps:
 
 - **Live Interactive Map:** [`index.html`](index.html) or open [`outputs/maps/chhattisgarh_agro_accessibility_map.html`](outputs/maps/chhattisgarh_agro_accessibility_map.html)
 - **Master Excel Dataset:** [`data/processed/chhattisgarh_all_146_blocks_master.xlsx`](data/processed/chhattisgarh_all_146_blocks_master.xlsx)
 - **POI Master Database (4,368 Facilities):** [`data/processed/chhattisgarh_agro_poi_master.csv`](data/processed/chhattisgarh_agro_poi_master.csv)
+
+### 🗺️ Master 4-Panel Agro-Logistics Atlas (300 DPI)
+![Chhattisgarh Agro-Logistics Master Atlas](outputs/figures/chhattisgarh_master_atlas_4panel.png)
+
+### 🚚 Regional Logistics Freight Cost Choropleth (₹/Quintal)
+![Logistics Freight Cost Map](outputs/figures/chhattisgarh_logistics_cost_choropleth.png)
+
+### 📍 Agro-Processing Coldspots & Priority Policy Interventions
+![Coldspots and Policy Interventions](outputs/figures/chhattisgarh_coldspots_interventions_map.png)
+
+### 🏭 2SFCA Processing Accessibility Index
+![2SFCA Processing Accessibility](outputs/figures/chhattisgarh_spatial_accessibility_2sfca_map.png)
 
 ---
 
