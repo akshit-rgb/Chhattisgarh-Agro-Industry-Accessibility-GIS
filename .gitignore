@@ -9,3 +9,6 @@ venv/
 *.log
 .DS_Store
 Thumbs.db
+.claude/
+agent/
+data/skills/
