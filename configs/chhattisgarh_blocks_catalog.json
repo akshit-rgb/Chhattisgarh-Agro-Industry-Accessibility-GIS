@@ -1,0 +1,2643 @@
+{
+  "metadata": {
+    "state": "Chhattisgarh",
+    "total_divisions": 5,
+    "total_districts": 33,
+    "total_blocks": 146,
+    "agro_climatic_zones": {
+      "Zone 1": "Chhattisgarh Plains (Beta_slope = 1.00)",
+      "Zone 2": "Undulating Foothills & Transition Blocks (Beta_slope = 1.20)",
+      "Zone 3": "Steep Northern Hills & Southern Bastar Plateau (Beta_slope = 1.40)"
+    }
+  },
+  "blocks": [
+    {
+      "division": "Raipur",
+      "district": "Raipur",
+      "block": "Dharsiwa",
+      "zone": 1,
+      "lat": 21.365,
+      "lon": 81.67,
+      "area_sqkm": 542.0,
+      "cropland_ha": 38400,
+      "marketable_surplus_qtl": 1150000,
+      "bbox": {
+        "min_lat": 21.245,
+        "min_lon": 81.55,
+        "max_lat": 21.485,
+        "max_lon": 81.79
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Raipur",
+      "block": "Tilda",
+      "zone": 1,
+      "lat": 21.562,
+      "lon": 81.765,
+      "area_sqkm": 680.0,
+      "cropland_ha": 51200,
+      "marketable_surplus_qtl": 1530000,
+      "bbox": {
+        "min_lat": 21.442,
+        "min_lon": 81.645,
+        "max_lat": 21.682,
+        "max_lon": 81.885
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Raipur",
+      "block": "Arang",
+      "zone": 1,
+      "lat": 21.196,
+      "lon": 81.968,
+      "area_sqkm": 725.0,
+      "cropland_ha": 58900,
+      "marketable_surplus_qtl": 1760000,
+      "bbox": {
+        "min_lat": 21.076,
+        "min_lon": 81.848,
+        "max_lat": 21.316,
+        "max_lon": 82.088
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Raipur",
+      "block": "Abhanpur",
+      "zone": 1,
+      "lat": 21.054,
+      "lon": 81.751,
+      "area_sqkm": 612.0,
+      "cropland_ha": 49100,
+      "marketable_surplus_qtl": 1470000,
+      "bbox": {
+        "min_lat": 20.934,
+        "min_lon": 81.631,
+        "max_lat": 21.174,
+        "max_lon": 81.871
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Baloda Bazar-Bhatapara",
+      "block": "Baloda Bazar",
+      "zone": 1,
+      "lat": 21.662,
+      "lon": 82.164,
+      "area_sqkm": 810.0,
+      "cropland_ha": 65000,
+      "marketable_surplus_qtl": 1950000,
+      "bbox": {
+        "min_lat": 21.542,
+        "min_lon": 82.044,
+        "max_lat": 21.782,
+        "max_lon": 82.284
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Baloda Bazar-Bhatapara",
+      "block": "Bhatapara",
+      "zone": 1,
+      "lat": 21.737,
+      "lon": 81.932,
+      "area_sqkm": 645.0,
+      "cropland_ha": 54000,
+      "marketable_surplus_qtl": 1620000,
+      "bbox": {
+        "min_lat": 21.617,
+        "min_lon": 81.812,
+        "max_lat": 21.857,
+        "max_lon": 82.052
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Baloda Bazar-Bhatapara",
+      "block": "Simga",
+      "zone": 1,
+      "lat": 21.628,
+      "lon": 81.705,
+      "area_sqkm": 715.0,
+      "cropland_ha": 61000,
+      "marketable_surplus_qtl": 1830000,
+      "bbox": {
+        "min_lat": 21.508,
+        "min_lon": 81.585,
+        "max_lat": 21.748,
+        "max_lon": 81.825
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Baloda Bazar-Bhatapara",
+      "block": "Palari",
+      "zone": 1,
+      "lat": 21.534,
+      "lon": 82.198,
+      "area_sqkm": 670.0,
+      "cropland_ha": 56000,
+      "marketable_surplus_qtl": 1680000,
+      "bbox": {
+        "min_lat": 21.414,
+        "min_lon": 82.078,
+        "max_lat": 21.654,
+        "max_lon": 82.318
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Baloda Bazar-Bhatapara",
+      "block": "Kasdol",
+      "zone": 1,
+      "lat": 21.621,
+      "lon": 82.502,
+      "area_sqkm": 890.0,
+      "cropland_ha": 68000,
+      "marketable_surplus_qtl": 1900000,
+      "bbox": {
+        "min_lat": 21.501,
+        "min_lon": 82.382,
+        "max_lat": 21.741,
+        "max_lon": 82.622
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Gariaband",
+      "block": "Gariaband",
+      "zone": 2,
+      "lat": 20.963,
+      "lon": 82.072,
+      "area_sqkm": 940.0,
+      "cropland_ha": 34000,
+      "marketable_surplus_qtl": 850000,
+      "bbox": {
+        "min_lat": 20.843,
+        "min_lon": 81.952,
+        "max_lat": 21.083,
+        "max_lon": 82.192
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Gariaband",
+      "block": "Chhura",
+      "zone": 2,
+      "lat": 21.05,
+      "lon": 82.185,
+      "area_sqkm": 780.0,
+      "cropland_ha": 39000,
+      "marketable_surplus_qtl": 980000,
+      "bbox": {
+        "min_lat": 20.93,
+        "min_lon": 82.065,
+        "max_lat": 21.17,
+        "max_lon": 82.305
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Gariaband",
+      "block": "Fingeshwar",
+      "zone": 1,
+      "lat": 21.018,
+      "lon": 81.936,
+      "area_sqkm": 560.0,
+      "cropland_ha": 44000,
+      "marketable_surplus_qtl": 1280000,
+      "bbox": {
+        "min_lat": 20.898,
+        "min_lon": 81.816,
+        "max_lat": 21.138,
+        "max_lon": 82.056
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Gariaband",
+      "block": "Mainpur",
+      "zone": 2,
+      "lat": 20.738,
+      "lon": 82.262,
+      "area_sqkm": 1450.0,
+      "cropland_ha": 28000,
+      "marketable_surplus_qtl": 620000,
+      "bbox": {
+        "min_lat": 20.618,
+        "min_lon": 82.142,
+        "max_lat": 20.858,
+        "max_lon": 82.382
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Gariaband",
+      "block": "Deobhog",
+      "zone": 2,
+      "lat": 20.198,
+      "lon": 82.578,
+      "area_sqkm": 880.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 710000,
+      "bbox": {
+        "min_lat": 20.078,
+        "min_lon": 82.458,
+        "max_lat": 20.318,
+        "max_lon": 82.698
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Dhamtari",
+      "block": "Dhamtari",
+      "zone": 1,
+      "lat": 20.707,
+      "lon": 81.549,
+      "area_sqkm": 520.0,
+      "cropland_ha": 46000,
+      "marketable_surplus_qtl": 1420000,
+      "bbox": {
+        "min_lat": 20.587,
+        "min_lon": 81.429,
+        "max_lat": 20.827,
+        "max_lon": 81.669
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Dhamtari",
+      "block": "Kurud",
+      "zone": 1,
+      "lat": 20.831,
+      "lon": 81.713,
+      "area_sqkm": 590.0,
+      "cropland_ha": 52000,
+      "marketable_surplus_qtl": 1650000,
+      "bbox": {
+        "min_lat": 20.711,
+        "min_lon": 81.593,
+        "max_lat": 20.951,
+        "max_lon": 81.833
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Dhamtari",
+      "block": "Magarlod",
+      "zone": 1,
+      "lat": 20.755,
+      "lon": 81.865,
+      "area_sqkm": 680.0,
+      "cropland_ha": 41000,
+      "marketable_surplus_qtl": 1180000,
+      "bbox": {
+        "min_lat": 20.635,
+        "min_lon": 81.745,
+        "max_lat": 20.875,
+        "max_lon": 81.985
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Dhamtari",
+      "block": "Nagri",
+      "zone": 2,
+      "lat": 20.552,
+      "lon": 81.921,
+      "area_sqkm": 1580.0,
+      "cropland_ha": 33000,
+      "marketable_surplus_qtl": 790000,
+      "bbox": {
+        "min_lat": 20.432,
+        "min_lon": 81.801,
+        "max_lat": 20.672,
+        "max_lon": 82.041
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Mahasamund",
+      "block": "Mahasamund",
+      "zone": 1,
+      "lat": 21.109,
+      "lon": 82.098,
+      "area_sqkm": 720.0,
+      "cropland_ha": 55000,
+      "marketable_surplus_qtl": 1600000,
+      "bbox": {
+        "min_lat": 20.989,
+        "min_lon": 81.978,
+        "max_lat": 21.229,
+        "max_lon": 82.218
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Mahasamund",
+      "block": "Bagbahara",
+      "zone": 1,
+      "lat": 20.965,
+      "lon": 82.378,
+      "area_sqkm": 840.0,
+      "cropland_ha": 52000,
+      "marketable_surplus_qtl": 1480000,
+      "bbox": {
+        "min_lat": 20.845,
+        "min_lon": 82.258,
+        "max_lat": 21.085,
+        "max_lon": 82.498
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Mahasamund",
+      "block": "Pithora",
+      "zone": 1,
+      "lat": 21.267,
+      "lon": 82.518,
+      "area_sqkm": 910.0,
+      "cropland_ha": 59000,
+      "marketable_surplus_qtl": 1680000,
+      "bbox": {
+        "min_lat": 21.147,
+        "min_lon": 82.398,
+        "max_lat": 21.387,
+        "max_lon": 82.638
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Mahasamund",
+      "block": "Basna",
+      "zone": 1,
+      "lat": 21.464,
+      "lon": 82.822,
+      "area_sqkm": 790.0,
+      "cropland_ha": 57000,
+      "marketable_surplus_qtl": 1620000,
+      "bbox": {
+        "min_lat": 21.344,
+        "min_lon": 82.702,
+        "max_lat": 21.584,
+        "max_lon": 82.942
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Raipur",
+      "district": "Mahasamund",
+      "block": "Saraipali",
+      "zone": 1,
+      "lat": 21.503,
+      "lon": 83.004,
+      "area_sqkm": 750.0,
+      "cropland_ha": 56000,
+      "marketable_surplus_qtl": 1590000,
+      "bbox": {
+        "min_lat": 21.383,
+        "min_lon": 82.884,
+        "max_lat": 21.623,
+        "max_lon": 83.124
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Durg",
+      "block": "Durg",
+      "zone": 1,
+      "lat": 21.189,
+      "lon": 81.284,
+      "area_sqkm": 680.0,
+      "cropland_ha": 53000,
+      "marketable_surplus_qtl": 1650000,
+      "bbox": {
+        "min_lat": 21.069,
+        "min_lon": 81.164,
+        "max_lat": 21.309,
+        "max_lon": 81.404
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Durg",
+      "block": "Patan",
+      "zone": 1,
+      "lat": 21.034,
+      "lon": 81.536,
+      "area_sqkm": 710.0,
+      "cropland_ha": 62000,
+      "marketable_surplus_qtl": 1920000,
+      "bbox": {
+        "min_lat": 20.914,
+        "min_lon": 81.416,
+        "max_lat": 21.154,
+        "max_lon": 81.656
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Durg",
+      "block": "Dhamdha",
+      "zone": 1,
+      "lat": 21.442,
+      "lon": 81.312,
+      "area_sqkm": 820.0,
+      "cropland_ha": 67000,
+      "marketable_surplus_qtl": 2050000,
+      "bbox": {
+        "min_lat": 21.322,
+        "min_lon": 81.192,
+        "max_lat": 21.562,
+        "max_lon": 81.432
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Balod",
+      "block": "Balod",
+      "zone": 1,
+      "lat": 20.73,
+      "lon": 81.205,
+      "area_sqkm": 610.0,
+      "cropland_ha": 48000,
+      "marketable_surplus_qtl": 1440000,
+      "bbox": {
+        "min_lat": 20.61,
+        "min_lon": 81.085,
+        "max_lat": 20.85,
+        "max_lon": 81.325
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Balod",
+      "block": "Gurur",
+      "zone": 1,
+      "lat": 20.742,
+      "lon": 81.385,
+      "area_sqkm": 540.0,
+      "cropland_ha": 43000,
+      "marketable_surplus_qtl": 1310000,
+      "bbox": {
+        "min_lat": 20.622,
+        "min_lon": 81.265,
+        "max_lat": 20.862,
+        "max_lon": 81.505
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Balod",
+      "block": "Gunderdehi",
+      "zone": 1,
+      "lat": 20.945,
+      "lon": 81.298,
+      "area_sqkm": 670.0,
+      "cropland_ha": 58000,
+      "marketable_surplus_qtl": 1780000,
+      "bbox": {
+        "min_lat": 20.825,
+        "min_lon": 81.178,
+        "max_lat": 21.065,
+        "max_lon": 81.418
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Balod",
+      "block": "Dondi",
+      "zone": 2,
+      "lat": 20.528,
+      "lon": 81.048,
+      "area_sqkm": 890.0,
+      "cropland_ha": 32000,
+      "marketable_surplus_qtl": 750000,
+      "bbox": {
+        "min_lat": 20.408,
+        "min_lon": 80.928,
+        "max_lat": 20.648,
+        "max_lon": 81.168
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Balod",
+      "block": "Dondi Lohara",
+      "zone": 1,
+      "lat": 20.785,
+      "lon": 81.042,
+      "area_sqkm": 780.0,
+      "cropland_ha": 54000,
+      "marketable_surplus_qtl": 1560000,
+      "bbox": {
+        "min_lat": 20.665,
+        "min_lon": 80.922,
+        "max_lat": 20.905,
+        "max_lon": 81.162
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Bemetara",
+      "block": "Bemetara",
+      "zone": 1,
+      "lat": 21.701,
+      "lon": 81.545,
+      "area_sqkm": 720.0,
+      "cropland_ha": 64000,
+      "marketable_surplus_qtl": 1950000,
+      "bbox": {
+        "min_lat": 21.581,
+        "min_lon": 81.425,
+        "max_lat": 21.821,
+        "max_lon": 81.665
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Bemetara",
+      "block": "Berla",
+      "zone": 1,
+      "lat": 21.503,
+      "lon": 81.54,
+      "area_sqkm": 680.0,
+      "cropland_ha": 59000,
+      "marketable_surplus_qtl": 1820000,
+      "bbox": {
+        "min_lat": 21.383,
+        "min_lon": 81.42,
+        "max_lat": 21.623,
+        "max_lon": 81.66
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Bemetara",
+      "block": "Saja",
+      "zone": 1,
+      "lat": 21.688,
+      "lon": 81.309,
+      "area_sqkm": 740.0,
+      "cropland_ha": 62000,
+      "marketable_surplus_qtl": 1890000,
+      "bbox": {
+        "min_lat": 21.568,
+        "min_lon": 81.189,
+        "max_lat": 21.808,
+        "max_lon": 81.429
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Bemetara",
+      "block": "Nawagarh",
+      "zone": 1,
+      "lat": 21.879,
+      "lon": 81.597,
+      "area_sqkm": 710.0,
+      "cropland_ha": 61000,
+      "marketable_surplus_qtl": 1850000,
+      "bbox": {
+        "min_lat": 21.759,
+        "min_lon": 81.477,
+        "max_lat": 21.999,
+        "max_lon": 81.717
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Rajnandgaon",
+      "block": "Rajnandgaon",
+      "zone": 1,
+      "lat": 21.096,
+      "lon": 81.032,
+      "area_sqkm": 750.0,
+      "cropland_ha": 58000,
+      "marketable_surplus_qtl": 1720000,
+      "bbox": {
+        "min_lat": 20.976,
+        "min_lon": 80.912,
+        "max_lat": 21.216,
+        "max_lon": 81.152
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Rajnandgaon",
+      "block": "Dongargarh",
+      "zone": 2,
+      "lat": 21.189,
+      "lon": 80.762,
+      "area_sqkm": 820.0,
+      "cropland_ha": 49000,
+      "marketable_surplus_qtl": 1350000,
+      "bbox": {
+        "min_lat": 21.069,
+        "min_lon": 80.642,
+        "max_lat": 21.309,
+        "max_lon": 80.882
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Rajnandgaon",
+      "block": "Dongargaon",
+      "zone": 1,
+      "lat": 20.972,
+      "lon": 80.854,
+      "area_sqkm": 640.0,
+      "cropland_ha": 51000,
+      "marketable_surplus_qtl": 1480000,
+      "bbox": {
+        "min_lat": 20.852,
+        "min_lon": 80.734,
+        "max_lat": 21.092,
+        "max_lon": 80.974
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Rajnandgaon",
+      "block": "Chhuriya",
+      "zone": 2,
+      "lat": 20.898,
+      "lon": 80.697,
+      "area_sqkm": 810.0,
+      "cropland_ha": 42000,
+      "marketable_surplus_qtl": 1050000,
+      "bbox": {
+        "min_lat": 20.778,
+        "min_lon": 80.577,
+        "max_lat": 21.018,
+        "max_lon": 80.817
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Khairagarh-Chhuikhadan-Gandai",
+      "block": "Khairagarh",
+      "zone": 1,
+      "lat": 21.418,
+      "lon": 80.978,
+      "area_sqkm": 790.0,
+      "cropland_ha": 55000,
+      "marketable_surplus_qtl": 1600000,
+      "bbox": {
+        "min_lat": 21.298,
+        "min_lon": 80.858,
+        "max_lat": 21.538,
+        "max_lon": 81.098
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Khairagarh-Chhuikhadan-Gandai",
+      "block": "Chhuikhadan",
+      "zone": 1,
+      "lat": 21.534,
+      "lon": 80.988,
+      "area_sqkm": 830.0,
+      "cropland_ha": 52000,
+      "marketable_surplus_qtl": 1490000,
+      "bbox": {
+        "min_lat": 21.414,
+        "min_lon": 80.868,
+        "max_lat": 21.654,
+        "max_lon": 81.108
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Mohla-Manpur-Ambagarh Chowki",
+      "block": "Ambagarh Chowki",
+      "zone": 2,
+      "lat": 20.781,
+      "lon": 80.738,
+      "area_sqkm": 680.0,
+      "cropland_ha": 38000,
+      "marketable_surplus_qtl": 920000,
+      "bbox": {
+        "min_lat": 20.661,
+        "min_lon": 80.618,
+        "max_lat": 20.901,
+        "max_lon": 80.858
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Mohla-Manpur-Ambagarh Chowki",
+      "block": "Mohla",
+      "zone": 2,
+      "lat": 20.575,
+      "lon": 80.751,
+      "area_sqkm": 870.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 680000,
+      "bbox": {
+        "min_lat": 20.455,
+        "min_lon": 80.631,
+        "max_lat": 20.695,
+        "max_lon": 80.871
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Mohla-Manpur-Ambagarh Chowki",
+      "block": "Manpur",
+      "zone": 3,
+      "lat": 20.355,
+      "lon": 80.758,
+      "area_sqkm": 1120.0,
+      "cropland_ha": 24000,
+      "marketable_surplus_qtl": 450000,
+      "bbox": {
+        "min_lat": 20.235,
+        "min_lon": 80.638,
+        "max_lat": 20.475,
+        "max_lon": 80.878
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Kabirdham",
+      "block": "Kawardha",
+      "zone": 1,
+      "lat": 22.012,
+      "lon": 81.246,
+      "area_sqkm": 720.0,
+      "cropland_ha": 54000,
+      "marketable_surplus_qtl": 1620000,
+      "bbox": {
+        "min_lat": 21.892,
+        "min_lon": 81.126,
+        "max_lat": 22.132,
+        "max_lon": 81.366
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Kabirdham",
+      "block": "Pandariya",
+      "zone": 1,
+      "lat": 22.227,
+      "lon": 81.413,
+      "area_sqkm": 890.0,
+      "cropland_ha": 59000,
+      "marketable_surplus_qtl": 1780000,
+      "bbox": {
+        "min_lat": 22.107,
+        "min_lon": 81.293,
+        "max_lat": 22.347,
+        "max_lon": 81.533
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Kabirdham",
+      "block": "Bodla",
+      "zone": 2,
+      "lat": 22.176,
+      "lon": 81.189,
+      "area_sqkm": 1150.0,
+      "cropland_ha": 33000,
+      "marketable_surplus_qtl": 740000,
+      "bbox": {
+        "min_lat": 22.056,
+        "min_lon": 81.069,
+        "max_lat": 22.296,
+        "max_lon": 81.309
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Durg",
+      "district": "Kabirdham",
+      "block": "Sahaspur Lohara",
+      "zone": 2,
+      "lat": 21.898,
+      "lon": 81.163,
+      "area_sqkm": 810.0,
+      "cropland_ha": 44000,
+      "marketable_surplus_qtl": 1180000,
+      "bbox": {
+        "min_lat": 21.778,
+        "min_lon": 81.043,
+        "max_lat": 22.018,
+        "max_lon": 81.283
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Bilaspur",
+      "block": "Belha",
+      "zone": 1,
+      "lat": 21.936,
+      "lon": 82.164,
+      "area_sqkm": 730.0,
+      "cropland_ha": 56000,
+      "marketable_surplus_qtl": 1720000,
+      "bbox": {
+        "min_lat": 21.816,
+        "min_lon": 82.044,
+        "max_lat": 22.056,
+        "max_lon": 82.284
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Bilaspur",
+      "block": "Takhatpur",
+      "zone": 1,
+      "lat": 22.148,
+      "lon": 81.871,
+      "area_sqkm": 780.0,
+      "cropland_ha": 61000,
+      "marketable_surplus_qtl": 1840000,
+      "bbox": {
+        "min_lat": 22.028,
+        "min_lon": 81.751,
+        "max_lat": 22.268,
+        "max_lon": 81.991
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Bilaspur",
+      "block": "Masturi",
+      "zone": 1,
+      "lat": 21.988,
+      "lon": 82.285,
+      "area_sqkm": 840.0,
+      "cropland_ha": 64000,
+      "marketable_surplus_qtl": 1910000,
+      "bbox": {
+        "min_lat": 21.868,
+        "min_lon": 82.165,
+        "max_lat": 22.108,
+        "max_lon": 82.405
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Bilaspur",
+      "block": "Kota",
+      "zone": 2,
+      "lat": 22.298,
+      "lon": 82.025,
+      "area_sqkm": 1050.0,
+      "cropland_ha": 41000,
+      "marketable_surplus_qtl": 1020000,
+      "bbox": {
+        "min_lat": 22.178,
+        "min_lon": 81.905,
+        "max_lat": 22.418,
+        "max_lon": 82.145
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Mungeli",
+      "block": "Mungeli",
+      "zone": 1,
+      "lat": 22.067,
+      "lon": 81.691,
+      "area_sqkm": 860.0,
+      "cropland_ha": 67000,
+      "marketable_surplus_qtl": 1980000,
+      "bbox": {
+        "min_lat": 21.947,
+        "min_lon": 81.571,
+        "max_lat": 22.187,
+        "max_lon": 81.811
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Mungeli",
+      "block": "Lormi",
+      "zone": 1,
+      "lat": 22.278,
+      "lon": 81.712,
+      "area_sqkm": 940.0,
+      "cropland_ha": 58000,
+      "marketable_surplus_qtl": 1650000,
+      "bbox": {
+        "min_lat": 22.158,
+        "min_lon": 81.592,
+        "max_lat": 22.398,
+        "max_lon": 81.832
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Mungeli",
+      "block": "Pathariya",
+      "zone": 1,
+      "lat": 21.942,
+      "lon": 81.815,
+      "area_sqkm": 710.0,
+      "cropland_ha": 55000,
+      "marketable_surplus_qtl": 1620000,
+      "bbox": {
+        "min_lat": 21.822,
+        "min_lon": 81.695,
+        "max_lat": 22.062,
+        "max_lon": 81.935
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Janjgir-Champa",
+      "block": "Nawagarh",
+      "zone": 1,
+      "lat": 21.874,
+      "lon": 82.598,
+      "area_sqkm": 620.0,
+      "cropland_ha": 52000,
+      "marketable_surplus_qtl": 1820000,
+      "bbox": {
+        "min_lat": 21.754,
+        "min_lon": 82.478,
+        "max_lat": 21.994,
+        "max_lon": 82.718
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Janjgir-Champa",
+      "block": "Akaltara",
+      "zone": 1,
+      "lat": 22.022,
+      "lon": 82.428,
+      "area_sqkm": 580.0,
+      "cropland_ha": 48000,
+      "marketable_surplus_qtl": 1690000,
+      "bbox": {
+        "min_lat": 21.902,
+        "min_lon": 82.308,
+        "max_lat": 22.142,
+        "max_lon": 82.548
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Janjgir-Champa",
+      "block": "Baloda",
+      "zone": 1,
+      "lat": 22.148,
+      "lon": 82.486,
+      "area_sqkm": 640.0,
+      "cropland_ha": 49000,
+      "marketable_surplus_qtl": 1680000,
+      "bbox": {
+        "min_lat": 22.028,
+        "min_lon": 82.366,
+        "max_lat": 22.268,
+        "max_lon": 82.606
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Janjgir-Champa",
+      "block": "Bamhnidih",
+      "zone": 1,
+      "lat": 21.948,
+      "lon": 82.724,
+      "area_sqkm": 570.0,
+      "cropland_ha": 47000,
+      "marketable_surplus_qtl": 1640000,
+      "bbox": {
+        "min_lat": 21.828,
+        "min_lon": 82.604,
+        "max_lat": 22.068,
+        "max_lon": 82.844
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Janjgir-Champa",
+      "block": "Pamgarh",
+      "zone": 1,
+      "lat": 21.882,
+      "lon": 82.435,
+      "area_sqkm": 590.0,
+      "cropland_ha": 51000,
+      "marketable_surplus_qtl": 1790000,
+      "bbox": {
+        "min_lat": 21.762,
+        "min_lon": 82.315,
+        "max_lat": 22.002,
+        "max_lon": 82.555
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Sakti",
+      "block": "Sakti",
+      "zone": 1,
+      "lat": 22.027,
+      "lon": 82.961,
+      "area_sqkm": 680.0,
+      "cropland_ha": 53000,
+      "marketable_surplus_qtl": 1750000,
+      "bbox": {
+        "min_lat": 21.907,
+        "min_lon": 82.841,
+        "max_lat": 22.147,
+        "max_lon": 83.081
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Sakti",
+      "block": "Jaijaipur",
+      "zone": 1,
+      "lat": 21.848,
+      "lon": 82.898,
+      "area_sqkm": 640.0,
+      "cropland_ha": 51000,
+      "marketable_surplus_qtl": 1710000,
+      "bbox": {
+        "min_lat": 21.728,
+        "min_lon": 82.778,
+        "max_lat": 21.968,
+        "max_lon": 83.018
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Sakti",
+      "block": "Malkharoda",
+      "zone": 1,
+      "lat": 21.815,
+      "lon": 83.024,
+      "area_sqkm": 610.0,
+      "cropland_ha": 49000,
+      "marketable_surplus_qtl": 1640000,
+      "bbox": {
+        "min_lat": 21.695,
+        "min_lon": 82.904,
+        "max_lat": 21.935,
+        "max_lon": 83.144
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Sakti",
+      "block": "Dabhra",
+      "zone": 1,
+      "lat": 21.728,
+      "lon": 83.167,
+      "area_sqkm": 670.0,
+      "cropland_ha": 54000,
+      "marketable_surplus_qtl": 1780000,
+      "bbox": {
+        "min_lat": 21.608,
+        "min_lon": 83.047,
+        "max_lat": 21.848,
+        "max_lon": 83.287
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Korba",
+      "block": "Korba",
+      "zone": 2,
+      "lat": 22.359,
+      "lon": 82.75,
+      "area_sqkm": 780.0,
+      "cropland_ha": 36000,
+      "marketable_surplus_qtl": 920000,
+      "bbox": {
+        "min_lat": 22.239,
+        "min_lon": 82.63,
+        "max_lat": 22.479,
+        "max_lon": 82.87
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Korba",
+      "block": "Kartala",
+      "zone": 2,
+      "lat": 22.189,
+      "lon": 82.842,
+      "area_sqkm": 840.0,
+      "cropland_ha": 41000,
+      "marketable_surplus_qtl": 1080000,
+      "bbox": {
+        "min_lat": 22.069,
+        "min_lon": 82.722,
+        "max_lat": 22.309,
+        "max_lon": 82.962
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Korba",
+      "block": "Katghora",
+      "zone": 2,
+      "lat": 22.508,
+      "lon": 82.553,
+      "area_sqkm": 920.0,
+      "cropland_ha": 39000,
+      "marketable_surplus_qtl": 1020000,
+      "bbox": {
+        "min_lat": 22.388,
+        "min_lon": 82.433,
+        "max_lat": 22.628,
+        "max_lon": 82.673
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Korba",
+      "block": "Pali",
+      "zone": 3,
+      "lat": 22.378,
+      "lon": 82.336,
+      "area_sqkm": 1180.0,
+      "cropland_ha": 32000,
+      "marketable_surplus_qtl": 710000,
+      "bbox": {
+        "min_lat": 22.258,
+        "min_lon": 82.216,
+        "max_lat": 22.498,
+        "max_lon": 82.456
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Korba",
+      "block": "Poundi-Uproda",
+      "zone": 3,
+      "lat": 22.684,
+      "lon": 82.428,
+      "area_sqkm": 1840.0,
+      "cropland_ha": 29000,
+      "marketable_surplus_qtl": 590000,
+      "bbox": {
+        "min_lat": 22.564,
+        "min_lon": 82.308,
+        "max_lat": 22.804,
+        "max_lon": 82.548
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Raigarh",
+      "block": "Raigarh",
+      "zone": 1,
+      "lat": 21.897,
+      "lon": 83.395,
+      "area_sqkm": 720.0,
+      "cropland_ha": 52000,
+      "marketable_surplus_qtl": 1620000,
+      "bbox": {
+        "min_lat": 21.777,
+        "min_lon": 83.275,
+        "max_lat": 22.017,
+        "max_lon": 83.515
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Raigarh",
+      "block": "Pusaur",
+      "zone": 1,
+      "lat": 21.758,
+      "lon": 83.364,
+      "area_sqkm": 590.0,
+      "cropland_ha": 47000,
+      "marketable_surplus_qtl": 1540000,
+      "bbox": {
+        "min_lat": 21.638,
+        "min_lon": 83.244,
+        "max_lat": 21.878,
+        "max_lon": 83.484
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Raigarh",
+      "block": "Kharsia",
+      "zone": 1,
+      "lat": 21.998,
+      "lon": 83.125,
+      "area_sqkm": 650.0,
+      "cropland_ha": 49000,
+      "marketable_surplus_qtl": 1580000,
+      "bbox": {
+        "min_lat": 21.878,
+        "min_lon": 83.005,
+        "max_lat": 22.118,
+        "max_lon": 83.245
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Raigarh",
+      "block": "Gharghoda",
+      "zone": 2,
+      "lat": 22.164,
+      "lon": 83.351,
+      "area_sqkm": 870.0,
+      "cropland_ha": 38000,
+      "marketable_surplus_qtl": 960000,
+      "bbox": {
+        "min_lat": 22.044,
+        "min_lon": 83.231,
+        "max_lat": 22.284,
+        "max_lon": 83.471
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Raigarh",
+      "block": "Tamnar",
+      "zone": 2,
+      "lat": 22.112,
+      "lon": 83.479,
+      "area_sqkm": 790.0,
+      "cropland_ha": 36000,
+      "marketable_surplus_qtl": 890000,
+      "bbox": {
+        "min_lat": 21.992,
+        "min_lon": 83.359,
+        "max_lat": 22.232,
+        "max_lon": 83.599
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Raigarh",
+      "block": "Lailunga",
+      "zone": 2,
+      "lat": 22.421,
+      "lon": 83.568,
+      "area_sqkm": 940.0,
+      "cropland_ha": 39000,
+      "marketable_surplus_qtl": 980000,
+      "bbox": {
+        "min_lat": 22.301,
+        "min_lon": 83.448,
+        "max_lat": 22.541,
+        "max_lon": 83.688
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Raigarh",
+      "block": "Dharamjaigarh",
+      "zone": 3,
+      "lat": 22.468,
+      "lon": 83.218,
+      "area_sqkm": 1420.0,
+      "cropland_ha": 34000,
+      "marketable_surplus_qtl": 780000,
+      "bbox": {
+        "min_lat": 22.348,
+        "min_lon": 83.098,
+        "max_lat": 22.588,
+        "max_lon": 83.338
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Sarangarh-Bilaigarh",
+      "block": "Sarangarh",
+      "zone": 1,
+      "lat": 21.589,
+      "lon": 83.082,
+      "area_sqkm": 760.0,
+      "cropland_ha": 57000,
+      "marketable_surplus_qtl": 1780000,
+      "bbox": {
+        "min_lat": 21.469,
+        "min_lon": 82.962,
+        "max_lat": 21.709,
+        "max_lon": 83.202
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Sarangarh-Bilaigarh",
+      "block": "Baramkela",
+      "zone": 1,
+      "lat": 21.612,
+      "lon": 83.342,
+      "area_sqkm": 680.0,
+      "cropland_ha": 54000,
+      "marketable_surplus_qtl": 1710000,
+      "bbox": {
+        "min_lat": 21.492,
+        "min_lon": 83.222,
+        "max_lat": 21.732,
+        "max_lon": 83.462
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Sarangarh-Bilaigarh",
+      "block": "Bilaigarh",
+      "zone": 1,
+      "lat": 21.642,
+      "lon": 82.721,
+      "area_sqkm": 710.0,
+      "cropland_ha": 55000,
+      "marketable_surplus_qtl": 1720000,
+      "bbox": {
+        "min_lat": 21.522,
+        "min_lon": 82.601,
+        "max_lat": 21.762,
+        "max_lon": 82.841
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Gaurela-Pendra-Marwahi",
+      "block": "Gaurela",
+      "zone": 3,
+      "lat": 22.756,
+      "lon": 81.912,
+      "area_sqkm": 730.0,
+      "cropland_ha": 28000,
+      "marketable_surplus_qtl": 590000,
+      "bbox": {
+        "min_lat": 22.636,
+        "min_lon": 81.792,
+        "max_lat": 22.876,
+        "max_lon": 82.032
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Gaurela-Pendra-Marwahi",
+      "block": "Pendra",
+      "zone": 3,
+      "lat": 22.768,
+      "lon": 82.045,
+      "area_sqkm": 690.0,
+      "cropland_ha": 27000,
+      "marketable_surplus_qtl": 560000,
+      "bbox": {
+        "min_lat": 22.648,
+        "min_lon": 81.925,
+        "max_lat": 22.888,
+        "max_lon": 82.165
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bilaspur",
+      "district": "Gaurela-Pendra-Marwahi",
+      "block": "Marwahi",
+      "zone": 3,
+      "lat": 22.989,
+      "lon": 82.034,
+      "area_sqkm": 880.0,
+      "cropland_ha": 25000,
+      "marketable_surplus_qtl": 490000,
+      "bbox": {
+        "min_lat": 22.869,
+        "min_lon": 81.914,
+        "max_lat": 23.109,
+        "max_lon": 82.154
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surguja",
+      "block": "Ambikapur",
+      "zone": 3,
+      "lat": 23.118,
+      "lon": 83.198,
+      "area_sqkm": 760.0,
+      "cropland_ha": 42000,
+      "marketable_surplus_qtl": 980000,
+      "bbox": {
+        "min_lat": 22.998,
+        "min_lon": 83.078,
+        "max_lat": 23.238,
+        "max_lon": 83.318
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surguja",
+      "block": "Lundra",
+      "zone": 3,
+      "lat": 23.082,
+      "lon": 83.398,
+      "area_sqkm": 680.0,
+      "cropland_ha": 34000,
+      "marketable_surplus_qtl": 750000,
+      "bbox": {
+        "min_lat": 22.962,
+        "min_lon": 83.278,
+        "max_lat": 23.202,
+        "max_lon": 83.518
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surguja",
+      "block": "Batauli",
+      "zone": 3,
+      "lat": 22.954,
+      "lon": 83.364,
+      "area_sqkm": 620.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 680000,
+      "bbox": {
+        "min_lat": 22.834,
+        "min_lon": 83.244,
+        "max_lat": 23.074,
+        "max_lon": 83.484
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surguja",
+      "block": "Sitapur",
+      "zone": 3,
+      "lat": 22.784,
+      "lon": 83.512,
+      "area_sqkm": 790.0,
+      "cropland_ha": 36000,
+      "marketable_surplus_qtl": 810000,
+      "bbox": {
+        "min_lat": 22.664,
+        "min_lon": 83.392,
+        "max_lat": 22.904,
+        "max_lon": 83.632
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surguja",
+      "block": "Mainpat",
+      "zone": 3,
+      "lat": 22.812,
+      "lon": 83.298,
+      "area_sqkm": 1140.0,
+      "cropland_ha": 26000,
+      "marketable_surplus_qtl": 510000,
+      "bbox": {
+        "min_lat": 22.692,
+        "min_lon": 83.178,
+        "max_lat": 22.932,
+        "max_lon": 83.418
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surguja",
+      "block": "Udaipur",
+      "zone": 3,
+      "lat": 22.915,
+      "lon": 82.964,
+      "area_sqkm": 890.0,
+      "cropland_ha": 33000,
+      "marketable_surplus_qtl": 720000,
+      "bbox": {
+        "min_lat": 22.795,
+        "min_lon": 82.844,
+        "max_lat": 23.035,
+        "max_lon": 83.084
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surguja",
+      "block": "Lakhanpur",
+      "zone": 3,
+      "lat": 23.025,
+      "lon": 83.045,
+      "area_sqkm": 740.0,
+      "cropland_ha": 35000,
+      "marketable_surplus_qtl": 780000,
+      "bbox": {
+        "min_lat": 22.905,
+        "min_lon": 82.925,
+        "max_lat": 23.145,
+        "max_lon": 83.165
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surajpur",
+      "block": "Surajpur",
+      "zone": 3,
+      "lat": 23.218,
+      "lon": 82.871,
+      "area_sqkm": 730.0,
+      "cropland_ha": 38000,
+      "marketable_surplus_qtl": 850000,
+      "bbox": {
+        "min_lat": 23.098,
+        "min_lon": 82.751,
+        "max_lat": 23.338,
+        "max_lon": 82.991
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surajpur",
+      "block": "Bhaiyathan",
+      "zone": 3,
+      "lat": 23.385,
+      "lon": 82.898,
+      "area_sqkm": 680.0,
+      "cropland_ha": 34000,
+      "marketable_surplus_qtl": 740000,
+      "bbox": {
+        "min_lat": 23.265,
+        "min_lon": 82.778,
+        "max_lat": 23.505,
+        "max_lon": 83.018
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surajpur",
+      "block": "Odgi",
+      "zone": 3,
+      "lat": 23.564,
+      "lon": 82.852,
+      "area_sqkm": 940.0,
+      "cropland_ha": 27000,
+      "marketable_surplus_qtl": 540000,
+      "bbox": {
+        "min_lat": 23.444,
+        "min_lon": 82.732,
+        "max_lat": 23.684,
+        "max_lon": 82.972
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surajpur",
+      "block": "Pratappur",
+      "zone": 3,
+      "lat": 23.498,
+      "lon": 83.189,
+      "area_sqkm": 820.0,
+      "cropland_ha": 36000,
+      "marketable_surplus_qtl": 810000,
+      "bbox": {
+        "min_lat": 23.378,
+        "min_lon": 83.069,
+        "max_lat": 23.618,
+        "max_lon": 83.309
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surajpur",
+      "block": "Premnagar",
+      "zone": 3,
+      "lat": 22.985,
+      "lon": 82.748,
+      "area_sqkm": 780.0,
+      "cropland_ha": 32000,
+      "marketable_surplus_qtl": 690000,
+      "bbox": {
+        "min_lat": 22.865,
+        "min_lon": 82.628,
+        "max_lat": 23.105,
+        "max_lon": 82.868
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Surajpur",
+      "block": "Ramanujnagar",
+      "zone": 3,
+      "lat": 23.125,
+      "lon": 82.712,
+      "area_sqkm": 810.0,
+      "cropland_ha": 35000,
+      "marketable_surplus_qtl": 760000,
+      "bbox": {
+        "min_lat": 23.005,
+        "min_lon": 82.592,
+        "max_lat": 23.245,
+        "max_lon": 82.832
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Balrampur-Ramanujganj",
+      "block": "Balrampur",
+      "zone": 3,
+      "lat": 23.612,
+      "lon": 83.618,
+      "area_sqkm": 870.0,
+      "cropland_ha": 33000,
+      "marketable_surplus_qtl": 710000,
+      "bbox": {
+        "min_lat": 23.492,
+        "min_lon": 83.498,
+        "max_lat": 23.732,
+        "max_lon": 83.738
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Balrampur-Ramanujganj",
+      "block": "Rajpur",
+      "zone": 3,
+      "lat": 23.435,
+      "lon": 83.398,
+      "area_sqkm": 720.0,
+      "cropland_ha": 35000,
+      "marketable_surplus_qtl": 770000,
+      "bbox": {
+        "min_lat": 23.315,
+        "min_lon": 83.278,
+        "max_lat": 23.555,
+        "max_lon": 83.518
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Balrampur-Ramanujganj",
+      "block": "Shankargarh",
+      "zone": 3,
+      "lat": 23.364,
+      "lon": 83.698,
+      "area_sqkm": 890.0,
+      "cropland_ha": 29000,
+      "marketable_surplus_qtl": 590000,
+      "bbox": {
+        "min_lat": 23.244,
+        "min_lon": 83.578,
+        "max_lat": 23.484,
+        "max_lon": 83.818
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Balrampur-Ramanujganj",
+      "block": "Kusmi",
+      "zone": 3,
+      "lat": 23.412,
+      "lon": 83.921,
+      "area_sqkm": 1120.0,
+      "cropland_ha": 25000,
+      "marketable_surplus_qtl": 480000,
+      "bbox": {
+        "min_lat": 23.292,
+        "min_lon": 83.801,
+        "max_lat": 23.532,
+        "max_lon": 84.041
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Balrampur-Ramanujganj",
+      "block": "Ramchandrapur",
+      "zone": 3,
+      "lat": 23.784,
+      "lon": 83.698,
+      "area_sqkm": 940.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 650000,
+      "bbox": {
+        "min_lat": 23.664,
+        "min_lon": 83.578,
+        "max_lat": 23.904,
+        "max_lon": 83.818
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Balrampur-Ramanujganj",
+      "block": "Wadrafnagar",
+      "zone": 3,
+      "lat": 23.756,
+      "lon": 83.212,
+      "area_sqkm": 860.0,
+      "cropland_ha": 34000,
+      "marketable_surplus_qtl": 720000,
+      "bbox": {
+        "min_lat": 23.636,
+        "min_lon": 83.092,
+        "max_lat": 23.876,
+        "max_lon": 83.332
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Jashpur",
+      "block": "Jashpur",
+      "zone": 3,
+      "lat": 22.884,
+      "lon": 84.145,
+      "area_sqkm": 820.0,
+      "cropland_ha": 36000,
+      "marketable_surplus_qtl": 760000,
+      "bbox": {
+        "min_lat": 22.764,
+        "min_lon": 84.025,
+        "max_lat": 23.004,
+        "max_lon": 84.265
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Jashpur",
+      "block": "Manora",
+      "zone": 3,
+      "lat": 22.985,
+      "lon": 84.025,
+      "area_sqkm": 680.0,
+      "cropland_ha": 28000,
+      "marketable_surplus_qtl": 550000,
+      "bbox": {
+        "min_lat": 22.865,
+        "min_lon": 83.905,
+        "max_lat": 23.105,
+        "max_lon": 84.145
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Jashpur",
+      "block": "Kunkuri",
+      "zone": 3,
+      "lat": 22.748,
+      "lon": 83.954,
+      "area_sqkm": 740.0,
+      "cropland_ha": 38000,
+      "marketable_surplus_qtl": 820000,
+      "bbox": {
+        "min_lat": 22.628,
+        "min_lon": 83.834,
+        "max_lat": 22.868,
+        "max_lon": 84.074
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Jashpur",
+      "block": "Duldula",
+      "zone": 3,
+      "lat": 22.684,
+      "lon": 84.112,
+      "area_sqkm": 590.0,
+      "cropland_ha": 29000,
+      "marketable_surplus_qtl": 590000,
+      "bbox": {
+        "min_lat": 22.564,
+        "min_lon": 83.992,
+        "max_lat": 22.804,
+        "max_lon": 84.232
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Jashpur",
+      "block": "Kansabel",
+      "zone": 3,
+      "lat": 22.658,
+      "lon": 83.785,
+      "area_sqkm": 670.0,
+      "cropland_ha": 32000,
+      "marketable_surplus_qtl": 670000,
+      "bbox": {
+        "min_lat": 22.538,
+        "min_lon": 83.665,
+        "max_lat": 22.778,
+        "max_lon": 83.905
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Jashpur",
+      "block": "Bagicha",
+      "zone": 3,
+      "lat": 23.012,
+      "lon": 83.698,
+      "area_sqkm": 1190.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 610000,
+      "bbox": {
+        "min_lat": 22.892,
+        "min_lon": 83.578,
+        "max_lat": 23.132,
+        "max_lon": 83.818
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Jashpur",
+      "block": "Pathalgaon",
+      "zone": 3,
+      "lat": 22.564,
+      "lon": 83.468,
+      "area_sqkm": 810.0,
+      "cropland_ha": 44000,
+      "marketable_surplus_qtl": 980000,
+      "bbox": {
+        "min_lat": 22.444,
+        "min_lon": 83.348,
+        "max_lat": 22.684,
+        "max_lon": 83.588
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Jashpur",
+      "block": "Farsabahar",
+      "zone": 3,
+      "lat": 22.502,
+      "lon": 83.898,
+      "area_sqkm": 720.0,
+      "cropland_ha": 35000,
+      "marketable_surplus_qtl": 730000,
+      "bbox": {
+        "min_lat": 22.382,
+        "min_lon": 83.778,
+        "max_lat": 22.622,
+        "max_lon": 84.018
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Koriya",
+      "block": "Baikunthpur",
+      "zone": 3,
+      "lat": 23.272,
+      "lon": 82.558,
+      "area_sqkm": 890.0,
+      "cropland_ha": 34000,
+      "marketable_surplus_qtl": 710000,
+      "bbox": {
+        "min_lat": 23.152,
+        "min_lon": 82.438,
+        "max_lat": 23.392,
+        "max_lon": 82.678
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Koriya",
+      "block": "Sonhat",
+      "zone": 3,
+      "lat": 23.475,
+      "lon": 82.534,
+      "area_sqkm": 1420.0,
+      "cropland_ha": 22000,
+      "marketable_surplus_qtl": 410000,
+      "bbox": {
+        "min_lat": 23.355,
+        "min_lon": 82.414,
+        "max_lat": 23.595,
+        "max_lon": 82.654
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Manendragarh-Chirmiri-Bharatpur",
+      "block": "Manendragarh",
+      "zone": 3,
+      "lat": 23.212,
+      "lon": 82.204,
+      "area_sqkm": 880.0,
+      "cropland_ha": 29000,
+      "marketable_surplus_qtl": 580000,
+      "bbox": {
+        "min_lat": 23.092,
+        "min_lon": 82.084,
+        "max_lat": 23.332,
+        "max_lon": 82.324
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Manendragarh-Chirmiri-Bharatpur",
+      "block": "Khadgawan",
+      "zone": 3,
+      "lat": 23.145,
+      "lon": 82.398,
+      "area_sqkm": 920.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 620000,
+      "bbox": {
+        "min_lat": 23.025,
+        "min_lon": 82.278,
+        "max_lat": 23.265,
+        "max_lon": 82.518
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Surguja",
+      "district": "Manendragarh-Chirmiri-Bharatpur",
+      "block": "Bharatpur",
+      "zone": 3,
+      "lat": 23.738,
+      "lon": 81.821,
+      "area_sqkm": 2180.0,
+      "cropland_ha": 26000,
+      "marketable_surplus_qtl": 480000,
+      "bbox": {
+        "min_lat": 23.618,
+        "min_lon": 81.701,
+        "max_lat": 23.858,
+        "max_lon": 81.941
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bastar",
+      "block": "Jagdalpur",
+      "zone": 3,
+      "lat": 19.078,
+      "lon": 82.028,
+      "area_sqkm": 720.0,
+      "cropland_ha": 41000,
+      "marketable_surplus_qtl": 950000,
+      "bbox": {
+        "min_lat": 18.958,
+        "min_lon": 81.908,
+        "max_lat": 19.198,
+        "max_lon": 82.148
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bastar",
+      "block": "Bakawand",
+      "zone": 3,
+      "lat": 19.189,
+      "lon": 82.164,
+      "area_sqkm": 680.0,
+      "cropland_ha": 38000,
+      "marketable_surplus_qtl": 860000,
+      "bbox": {
+        "min_lat": 19.069,
+        "min_lon": 82.044,
+        "max_lat": 19.309,
+        "max_lon": 82.284
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bastar",
+      "block": "Bastar",
+      "zone": 3,
+      "lat": 19.215,
+      "lon": 81.932,
+      "area_sqkm": 650.0,
+      "cropland_ha": 37000,
+      "marketable_surplus_qtl": 820000,
+      "bbox": {
+        "min_lat": 19.095,
+        "min_lon": 81.812,
+        "max_lat": 19.335,
+        "max_lon": 82.052
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bastar",
+      "block": "Lohandiguda",
+      "zone": 3,
+      "lat": 19.062,
+      "lon": 81.785,
+      "area_sqkm": 740.0,
+      "cropland_ha": 32000,
+      "marketable_surplus_qtl": 680000,
+      "bbox": {
+        "min_lat": 18.942,
+        "min_lon": 81.665,
+        "max_lat": 19.182,
+        "max_lon": 81.905
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bastar",
+      "block": "Tokapal",
+      "zone": 3,
+      "lat": 18.964,
+      "lon": 81.898,
+      "area_sqkm": 590.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 660000,
+      "bbox": {
+        "min_lat": 18.844,
+        "min_lon": 81.778,
+        "max_lat": 19.084,
+        "max_lon": 82.018
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bastar",
+      "block": "Darbha",
+      "zone": 3,
+      "lat": 18.865,
+      "lon": 81.874,
+      "area_sqkm": 870.0,
+      "cropland_ha": 26000,
+      "marketable_surplus_qtl": 510000,
+      "bbox": {
+        "min_lat": 18.745,
+        "min_lon": 81.754,
+        "max_lat": 18.985,
+        "max_lon": 81.994
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bastar",
+      "block": "Bastanar",
+      "zone": 3,
+      "lat": 18.948,
+      "lon": 81.658,
+      "area_sqkm": 810.0,
+      "cropland_ha": 25000,
+      "marketable_surplus_qtl": 490000,
+      "bbox": {
+        "min_lat": 18.828,
+        "min_lon": 81.538,
+        "max_lat": 19.068,
+        "max_lon": 81.778
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Kondagaon",
+      "block": "Kondagaon",
+      "zone": 3,
+      "lat": 19.598,
+      "lon": 81.674,
+      "area_sqkm": 850.0,
+      "cropland_ha": 42000,
+      "marketable_surplus_qtl": 940000,
+      "bbox": {
+        "min_lat": 19.478,
+        "min_lon": 81.554,
+        "max_lat": 19.718,
+        "max_lon": 81.794
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Kondagaon",
+      "block": "Makdi",
+      "zone": 3,
+      "lat": 19.742,
+      "lon": 81.895,
+      "area_sqkm": 790.0,
+      "cropland_ha": 35000,
+      "marketable_surplus_qtl": 750000,
+      "bbox": {
+        "min_lat": 19.622,
+        "min_lon": 81.775,
+        "max_lat": 19.862,
+        "max_lon": 82.015
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Kondagaon",
+      "block": "Pharasgaon",
+      "zone": 2,
+      "lat": 19.854,
+      "lon": 81.615,
+      "area_sqkm": 720.0,
+      "cropland_ha": 39000,
+      "marketable_surplus_qtl": 880000,
+      "bbox": {
+        "min_lat": 19.734,
+        "min_lon": 81.495,
+        "max_lat": 19.974,
+        "max_lon": 81.735
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Kondagaon",
+      "block": "Keshkal",
+      "zone": 2,
+      "lat": 20.084,
+      "lon": 81.589,
+      "area_sqkm": 890.0,
+      "cropland_ha": 34000,
+      "marketable_surplus_qtl": 760000,
+      "bbox": {
+        "min_lat": 19.964,
+        "min_lon": 81.469,
+        "max_lat": 20.204,
+        "max_lon": 81.709
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Kondagaon",
+      "block": "Baderajpur",
+      "zone": 2,
+      "lat": 20.045,
+      "lon": 81.798,
+      "area_sqkm": 710.0,
+      "cropland_ha": 33000,
+      "marketable_surplus_qtl": 720000,
+      "bbox": {
+        "min_lat": 19.925,
+        "min_lon": 81.678,
+        "max_lat": 20.165,
+        "max_lon": 81.918
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Uttar Bastar Kanker",
+      "block": "Kanker",
+      "zone": 2,
+      "lat": 20.272,
+      "lon": 81.492,
+      "area_sqkm": 680.0,
+      "cropland_ha": 38000,
+      "marketable_surplus_qtl": 910000,
+      "bbox": {
+        "min_lat": 20.152,
+        "min_lon": 81.372,
+        "max_lat": 20.392,
+        "max_lon": 81.612
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Uttar Bastar Kanker",
+      "block": "Charama",
+      "zone": 2,
+      "lat": 20.458,
+      "lon": 81.385,
+      "area_sqkm": 610.0,
+      "cropland_ha": 41000,
+      "marketable_surplus_qtl": 1050000,
+      "bbox": {
+        "min_lat": 20.338,
+        "min_lon": 81.265,
+        "max_lat": 20.578,
+        "max_lon": 81.505
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Uttar Bastar Kanker",
+      "block": "Narharpur",
+      "zone": 2,
+      "lat": 20.412,
+      "lon": 81.658,
+      "area_sqkm": 820.0,
+      "cropland_ha": 36000,
+      "marketable_surplus_qtl": 840000,
+      "bbox": {
+        "min_lat": 20.292,
+        "min_lon": 81.538,
+        "max_lat": 20.532,
+        "max_lon": 81.778
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Uttar Bastar Kanker",
+      "block": "Bhanupratappur",
+      "zone": 3,
+      "lat": 20.312,
+      "lon": 81.082,
+      "area_sqkm": 790.0,
+      "cropland_ha": 37000,
+      "marketable_surplus_qtl": 860000,
+      "bbox": {
+        "min_lat": 20.192,
+        "min_lon": 80.962,
+        "max_lat": 20.432,
+        "max_lon": 81.202
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Uttar Bastar Kanker",
+      "block": "Durgkondal",
+      "zone": 3,
+      "lat": 20.398,
+      "lon": 80.895,
+      "area_sqkm": 890.0,
+      "cropland_ha": 28000,
+      "marketable_surplus_qtl": 590000,
+      "bbox": {
+        "min_lat": 20.278,
+        "min_lon": 80.775,
+        "max_lat": 20.518,
+        "max_lon": 81.015
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Uttar Bastar Kanker",
+      "block": "Antagarh",
+      "zone": 3,
+      "lat": 20.098,
+      "lon": 81.164,
+      "area_sqkm": 1120.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 680000,
+      "bbox": {
+        "min_lat": 19.978,
+        "min_lon": 81.044,
+        "max_lat": 20.218,
+        "max_lon": 81.284
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Uttar Bastar Kanker",
+      "block": "Koylibeda",
+      "zone": 3,
+      "lat": 20.145,
+      "lon": 80.925,
+      "area_sqkm": 1410.0,
+      "cropland_ha": 29000,
+      "marketable_surplus_qtl": 610000,
+      "bbox": {
+        "min_lat": 20.025,
+        "min_lon": 80.805,
+        "max_lat": 20.265,
+        "max_lon": 81.045
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Dakshin Bastar Dantewada",
+      "block": "Dantewada",
+      "zone": 3,
+      "lat": 18.895,
+      "lon": 81.352,
+      "area_sqkm": 780.0,
+      "cropland_ha": 31000,
+      "marketable_surplus_qtl": 650000,
+      "bbox": {
+        "min_lat": 18.775,
+        "min_lon": 81.232,
+        "max_lat": 19.015,
+        "max_lon": 81.472
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Dakshin Bastar Dantewada",
+      "block": "Geedam",
+      "zone": 3,
+      "lat": 18.985,
+      "lon": 81.398,
+      "area_sqkm": 690.0,
+      "cropland_ha": 33000,
+      "marketable_surplus_qtl": 710000,
+      "bbox": {
+        "min_lat": 18.865,
+        "min_lon": 81.278,
+        "max_lat": 19.105,
+        "max_lon": 81.518
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Dakshin Bastar Dantewada",
+      "block": "Kuakonda",
+      "zone": 3,
+      "lat": 18.748,
+      "lon": 81.458,
+      "area_sqkm": 810.0,
+      "cropland_ha": 24000,
+      "marketable_surplus_qtl": 460000,
+      "bbox": {
+        "min_lat": 18.628,
+        "min_lon": 81.338,
+        "max_lat": 18.868,
+        "max_lon": 81.578
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Dakshin Bastar Dantewada",
+      "block": "Katekalyan",
+      "zone": 3,
+      "lat": 18.798,
+      "lon": 81.658,
+      "area_sqkm": 860.0,
+      "cropland_ha": 23000,
+      "marketable_surplus_qtl": 440000,
+      "bbox": {
+        "min_lat": 18.678,
+        "min_lon": 81.538,
+        "max_lat": 18.918,
+        "max_lon": 81.778
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Sukma",
+      "block": "Sukma",
+      "zone": 3,
+      "lat": 18.398,
+      "lon": 81.662,
+      "area_sqkm": 1150.0,
+      "cropland_ha": 28000,
+      "marketable_surplus_qtl": 560000,
+      "bbox": {
+        "min_lat": 18.278,
+        "min_lon": 81.542,
+        "max_lat": 18.518,
+        "max_lon": 81.782
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Sukma",
+      "block": "Chhindgarh",
+      "zone": 3,
+      "lat": 18.598,
+      "lon": 81.748,
+      "area_sqkm": 1020.0,
+      "cropland_ha": 29000,
+      "marketable_surplus_qtl": 590000,
+      "bbox": {
+        "min_lat": 18.478,
+        "min_lon": 81.628,
+        "max_lat": 18.718,
+        "max_lon": 81.868
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Sukma",
+      "block": "Konta",
+      "zone": 3,
+      "lat": 17.812,
+      "lon": 81.395,
+      "area_sqkm": 2180.0,
+      "cropland_ha": 22000,
+      "marketable_surplus_qtl": 380000,
+      "bbox": {
+        "min_lat": 17.692,
+        "min_lon": 81.275,
+        "max_lat": 17.932,
+        "max_lon": 81.515
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bijapur",
+      "block": "Bijapur",
+      "zone": 3,
+      "lat": 18.798,
+      "lon": 80.812,
+      "area_sqkm": 1450.0,
+      "cropland_ha": 26000,
+      "marketable_surplus_qtl": 490000,
+      "bbox": {
+        "min_lat": 18.678,
+        "min_lon": 80.692,
+        "max_lat": 18.918,
+        "max_lon": 80.932
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bijapur",
+      "block": "Bhairamgarh",
+      "zone": 3,
+      "lat": 19.012,
+      "lon": 80.954,
+      "area_sqkm": 1680.0,
+      "cropland_ha": 27000,
+      "marketable_surplus_qtl": 520000,
+      "bbox": {
+        "min_lat": 18.892,
+        "min_lon": 80.834,
+        "max_lat": 19.132,
+        "max_lon": 81.074
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bijapur",
+      "block": "Usoor",
+      "zone": 3,
+      "lat": 18.528,
+      "lon": 80.798,
+      "area_sqkm": 1890.0,
+      "cropland_ha": 21000,
+      "marketable_surplus_qtl": 360000,
+      "bbox": {
+        "min_lat": 18.408,
+        "min_lon": 80.678,
+        "max_lat": 18.648,
+        "max_lon": 80.918
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Bijapur",
+      "block": "Bhopalpatnam",
+      "zone": 3,
+      "lat": 18.854,
+      "lon": 80.385,
+      "area_sqkm": 1750.0,
+      "cropland_ha": 24000,
+      "marketable_surplus_qtl": 440000,
+      "bbox": {
+        "min_lat": 18.734,
+        "min_lon": 80.265,
+        "max_lat": 18.974,
+        "max_lon": 80.505
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Narayanpur",
+      "block": "Narayanpur",
+      "zone": 3,
+      "lat": 19.712,
+      "lon": 81.254,
+      "area_sqkm": 1280.0,
+      "cropland_ha": 27000,
+      "marketable_surplus_qtl": 530000,
+      "bbox": {
+        "min_lat": 19.592,
+        "min_lon": 81.134,
+        "max_lat": 19.832,
+        "max_lon": 81.374
+      },
+      "search_radius_m": 15000
+    },
+    {
+      "division": "Bastar",
+      "district": "Narayanpur",
+      "block": "Orchha",
+      "zone": 3,
+      "lat": 19.468,
+      "lon": 80.985,
+      "area_sqkm": 3680.0,
+      "cropland_ha": 16000,
+      "marketable_surplus_qtl": 250000,
+      "bbox": {
+        "min_lat": 19.348,
+        "min_lon": 80.865,
+        "max_lat": 19.588,
+        "max_lon": 81.105
+      },
+      "search_radius_m": 15000
+    }
+  ]
+}

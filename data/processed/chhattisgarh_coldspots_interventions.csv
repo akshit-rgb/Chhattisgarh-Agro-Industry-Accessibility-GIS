@@ -1,0 +1,141 @@
+Division,District,CD_Block,Agro_Climatic_Zone,Friction_Severity_Index,Pre_Intervention_Tractor_Time_Min,Pre_Intervention_Transport_Cost_INR_Qtl,Recommended_Facility_Type,Optimal_Latitude,Optimal_Longitude,Estimated_Capex_INR_Lakhs,Capacity_MT_Day,Post_Intervention_Tractor_Time_Min,Post_Intervention_Transport_Cost_INR_Qtl,Cost_Savings_INR_Qtl,Annual_Farmer_Savings_INR_Lakhs,Policy_Priority
+Bastar,Sukma,Konta,Zone Zone 3,4.87,94.2,285.97,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),17.762,81.395,48.0,6.0,39.6,148.7,137.27,521.63,Tier 1 High Priority
+Bastar,Narayanpur,Orchha,Zone Zone 3,4.44,117.5,242.41,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.443,81.035,48.0,6.0,49.4,126.05,116.36,290.9,Tier 1 High Priority
+Surguja,Manendragarh-Chirmiri-Bharatpur,Bharatpur,Zone Zone 3,4.3,76.0,257.0,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.688,81.771,42.0,5.0,31.9,133.64,123.36,592.13,Tier 1 High Priority
+Surguja,Balrampur-Ramanujganj,Ramchandrapur,Zone Zone 3,3.52,106.3,184.29,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.759,83.698,42.0,5.0,44.6,95.83,88.46,574.99,Tier 1 High Priority
+Bastar,Narayanpur,Narayanpur,Zone Zone 3,3.37,108.2,172.62,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.662,81.254,48.0,6.0,45.4,89.76,82.86,439.16,Tier 1 High Priority
+Bilaspur,Gaurela-Pendra-Marwahi,Gaurela,Zone Zone 3,3.36,85.3,185.54,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.731,81.962,55.0,8.0,35.8,96.48,89.06,525.45,Tier 1 High Priority
+Surguja,Balrampur-Ramanujganj,Kusmi,Zone Zone 3,3.33,88.1,181.49,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.387,83.921,42.0,5.0,37.0,94.37,87.12,418.18,Tier 1 High Priority
+Surguja,Balrampur-Ramanujganj,Balrampur,Zone Zone 3,3.31,99.8,173.66,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.662,83.568,42.0,5.0,41.9,90.3,83.36,591.86,Tier 1 High Priority
+Bastar,Uttar Bastar Kanker,Koylibeda,Zone Zone 3,3.11,108.2,154.47,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.145,80.95,48.0,6.0,45.4,80.32,74.15,452.31,Tier 1 High Priority
+Surguja,Balrampur-Ramanujganj,Rajpur,Zone Zone 3,3.04,90.0,160.07,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.435,83.348,42.0,5.0,37.8,83.24,76.83,591.59,Tier 1 High Priority
+Bastar,Sukma,Sukma,Zone Zone 3,3.04,111.9,147.3,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.373,81.712,48.0,6.0,47.0,76.6,70.7,395.92,Tier 1 High Priority
+Surguja,Surajpur,Odgi,Zone Zone 3,3.01,80.7,163.61,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.589,82.852,42.0,5.0,33.9,85.08,78.53,424.06,Tier 1 High Priority
+Surguja,Jashpur,Kansabel,Zone Zone 3,2.93,90.0,152.79,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.658,83.735,65.0,10.0,37.8,79.45,73.34,491.38,Tier 1 High Priority
+Surguja,Koriya,Sonhat,Zone Zone 3,2.92,76.0,160.33,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.5,82.484,42.0,5.0,31.9,83.37,76.96,315.54,Tier 1 High Priority
+Bilaspur,Gaurela-Pendra-Marwahi,Marwahi,Zone Zone 3,2.85,76.0,155.02,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),23.039,81.984,55.0,8.0,31.9,80.61,74.41,364.61,Tier 1 High Priority
+Surguja,Surguja,Ambikapur,Zone Zone 3,2.79,66.7,156.34,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),23.068,83.148,65.0,10.0,28.0,81.3,75.04,735.39,Tier 1 High Priority
+Bilaspur,Korba,Pali,Zone Zone 3,2.78,97.5,137.45,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.353,82.286,55.0,8.0,40.9,71.47,65.98,468.46,Tier 1 High Priority
+Bilaspur,Gaurela-Pendra-Marwahi,Pendra,Zone Zone 3,2.74,49.4,162.77,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.768,82.02,55.0,8.0,20.7,84.64,78.13,437.53,Tier 1 High Priority
+Surguja,Surguja,Lakhanpur,Zone Zone 3,2.74,79.7,145.25,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),23.0,82.995,65.0,10.0,33.5,75.53,69.72,543.82,Tier 1 High Priority
+Bastar,Uttar Bastar Kanker,Bhanupratappur,Zone Zone 3,2.72,103.1,129.96,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.262,81.057,48.0,6.0,43.3,67.58,62.38,536.47,Tier 1 High Priority
+Bastar,Uttar Bastar Kanker,Antagarh,Zone Zone 3,2.69,69.9,147.33,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.073,81.114,48.0,6.0,29.4,76.61,70.72,480.9,Tier 1 High Priority
+Surguja,Jashpur,Kunkuri,Zone Zone 3,2.56,97.5,122.26,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.748,83.904,65.0,10.0,40.9,63.58,58.68,481.18,Tier 1 High Priority
+Bastar,Dakshin Bastar Dantewada,Katekalyan,Zone Zone 3,2.53,92.8,123.05,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.798,81.708,48.0,6.0,39.0,63.99,59.06,259.86,Tier 1 High Priority
+Surguja,Balrampur-Ramanujganj,Wadrafnagar,Zone Zone 3,2.52,113.3,110.08,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.731,83.187,42.0,5.0,47.6,57.24,52.84,380.45,Tier 1 High Priority
+Surguja,Balrampur-Ramanujganj,Shankargarh,Zone Zone 3,2.51,66.7,136.96,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.389,83.673,42.0,5.0,28.0,71.22,65.74,387.87,Tier 1 High Priority
+Bilaspur,Raigarh,Dharamjaigarh,Zone Zone 3,2.49,118.0,105.71,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.468,83.243,55.0,8.0,49.6,54.97,50.74,395.77,Tier 1 High Priority
+Surguja,Surajpur,Surajpur,Zone Zone 3,2.42,90.0,116.86,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.168,82.821,42.0,5.0,37.8,60.77,56.09,476.76,Tier 1 High Priority
+Surguja,Surajpur,Pratappur,Zone Zone 3,2.41,76.0,124.4,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.548,83.214,42.0,5.0,31.9,64.69,59.71,483.65,Tier 1 High Priority
+Bastar,Bastar,Bastar,Zone Zone 3,2.39,112.9,101.46,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.19,81.957,48.0,6.0,47.4,52.76,48.7,399.34,Tier 1 High Priority
+Surguja,Jashpur,Farsabahar,Zone Zone 3,2.35,66.7,125.35,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.502,83.848,65.0,10.0,28.0,65.18,60.17,439.24,Tier 1 High Priority
+Surguja,Koriya,Baikunthpur,Zone Zone 3,2.32,80.7,115.58,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.272,82.508,42.0,5.0,33.9,60.1,55.48,393.91,Tier 1 High Priority
+Bastar,Kondagaon,Kondagaon,Zone Zone 3,2.26,108.2,94.96,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.623,81.724,48.0,6.0,45.4,49.38,45.58,428.45,Tier 1 High Priority
+Surguja,Manendragarh-Chirmiri-Bharatpur,Khadgawan,Zone Zone 3,2.24,101.2,97.93,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.195,82.348,42.0,5.0,42.5,50.92,47.01,291.46,Tier 1 High Priority
+Surguja,Jashpur,Bagicha,Zone Zone 3,2.23,104.0,95.48,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.962,83.648,65.0,10.0,43.7,49.65,45.83,279.56,Tier 1 High Priority
+Surguja,Surguja,Udaipur,Zone Zone 3,2.22,47.1,127.91,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.915,82.989,65.0,10.0,19.8,66.51,61.4,442.08,Tier 1 High Priority
+Bastar,Sukma,Chhindgarh,Zone Zone 3,2.22,98.9,97.4,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.623,81.773,48.0,6.0,41.5,50.65,46.75,275.82,Tier 1 High Priority
+Bastar,Bijapur,Bijapur,Zone Zone 3,2.16,103.5,90.69,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.748,80.762,48.0,6.0,43.5,47.16,43.53,213.3,Tier 1 High Priority
+Surguja,Manendragarh-Chirmiri-Bharatpur,Manendragarh,Zone Zone 3,2.05,66.7,104.61,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.162,82.254,42.0,5.0,28.0,54.4,50.21,291.22,Tier 1 High Priority
+Bastar,Bastar,Lohandiguda,Zone Zone 3,2.02,69.9,100.29,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.012,81.785,48.0,6.0,29.4,52.15,48.14,327.35,Tier 1 High Priority
+Surguja,Surguja,Batauli,Zone Zone 3,1.99,58.7,104.9,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.929,83.339,65.0,10.0,24.7,54.55,50.35,342.38,Tier 1 High Priority
+Surguja,Surguja,Lundra,Zone Zone 3,1.96,44.7,111.34,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),23.032,83.348,65.0,10.0,18.8,57.9,53.44,400.8,Tier 1 High Priority
+Durg,Mohla-Manpur-Ambagarh Chowki,Manpur,Zone Zone 3,1.93,86.3,84.52,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.305,80.783,55.0,8.0,36.2,43.95,40.57,182.56,Tier 1 High Priority
+Surguja,Jashpur,Pathalgaon,Zone Zone 3,1.91,71.3,91.97,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.614,83.493,65.0,10.0,29.9,47.82,44.15,432.67,Tier 1 High Priority
+Surguja,Surguja,Mainpat,Zone Zone 3,1.9,57.8,99.0,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.787,83.273,65.0,10.0,24.3,51.48,47.52,242.35,Tier 1 High Priority
+Surguja,Jashpur,Jashpur,Zone Zone 3,1.87,55.9,98.58,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.859,84.095,65.0,10.0,23.5,51.26,47.32,359.63,Tier 1 High Priority
+Surguja,Jashpur,Manora,Zone Zone 3,1.87,36.3,110.03,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.985,84.0,65.0,10.0,15.2,57.22,52.81,290.45,Tier 1 High Priority
+Surguja,Jashpur,Duldula,Zone Zone 3,1.82,76.9,82.76,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.659,84.112,65.0,10.0,32.3,43.04,39.72,234.35,Tier 1 High Priority
+Bastar,Bijapur,Bhairamgarh,Zone Zone 3,1.82,40.1,103.72,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.962,80.954,48.0,6.0,16.8,53.93,49.79,258.91,Tier 1 High Priority
+Bastar,Bijapur,Usoor,Zone Zone 3,1.8,36.3,105.09,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.478,80.748,48.0,6.0,15.2,54.65,50.44,181.58,Tier 1 High Priority
+Surguja,Surajpur,Premnagar,Zone Zone 3,1.77,57.8,90.36,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.01,82.723,42.0,5.0,24.3,46.99,43.37,299.25,Tier 1 High Priority
+Surguja,Surajpur,Bhaiyathan,Zone Zone 3,1.76,36.3,102.13,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.335,82.898,42.0,5.0,15.2,53.11,49.02,362.75,Tier 1 High Priority
+Bastar,Bastar,Darbha,Zone Zone 3,1.7,44.7,92.82,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.815,81.824,48.0,6.0,18.8,48.27,44.55,227.21,Tier 1 High Priority
+Bilaspur,Korba,Poundi-Uproda,Zone Zone 3,1.69,40.1,94.59,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.659,82.453,55.0,8.0,16.8,49.19,45.4,267.86,Tier 1 High Priority
+Bastar,Bastar,Jagdalpur,Zone Zone 3,1.67,56.4,83.87,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.078,81.978,48.0,6.0,23.7,43.61,40.26,382.47,Tier 1 High Priority
+Bastar,Bastar,Bastanar,Zone Zone 3,1.67,69.0,76.63,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.948,81.708,48.0,6.0,29.0,39.85,36.78,180.22,Tier 1 High Priority
+Durg,Rajnandgaon,Chhuriya,Zone Zone 2,1.63,72.8,71.75,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.923,80.747,55.0,8.0,30.6,37.31,34.44,361.62,Tier 1 High Priority
+Bastar,Kondagaon,Keshkal,Zone Zone 2,1.63,76.4,69.7,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.134,81.564,48.0,6.0,32.1,36.24,33.46,254.3,Tier 1 High Priority
+Bastar,Kondagaon,Makdi,Zone Zone 3,1.62,36.3,92.25,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.767,81.895,48.0,6.0,15.2,47.97,44.28,332.1,Tier 1 High Priority
+Durg,Rajnandgaon,Dongargarh,Zone Zone 2,1.58,74.0,67.67,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.239,80.812,55.0,8.0,31.1,35.19,32.48,438.48,Tier 1 High Priority
+Bastar,Kondagaon,Pharasgaon,Zone Zone 2,1.58,72.4,68.16,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.804,81.64,48.0,6.0,30.4,35.44,32.72,287.94,Tier 1 High Priority
+Surguja,Surajpur,Ramanujnagar,Zone Zone 3,1.57,64.8,71.97,Hill-Tract Minor Millet & Pulse Hulling Center (Kodo/Kutki/Arhar),23.125,82.687,42.0,5.0,27.2,37.42,34.55,262.58,Tier 1 High Priority
+Bastar,Kondagaon,Baderajpur,Zone Zone 2,1.55,72.4,66.04,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.045,81.848,48.0,6.0,30.4,34.34,31.7,228.24,Tier 1 High Priority
+Bastar,Uttar Bastar Kanker,Charama,Zone Zone 2,1.55,70.0,67.72,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.508,81.41,48.0,6.0,29.4,35.21,32.51,341.36,Tier 1 High Priority
+Durg,Balod,Dondi,Zone Zone 2,1.53,66.0,68.39,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.528,81.073,55.0,8.0,27.7,35.56,32.83,246.22,Tier 1 High Priority
+Bilaspur,Bilaspur,Kota,Zone Zone 2,1.53,70.0,66.03,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.348,81.975,55.0,8.0,29.4,34.34,31.69,323.24,Tier 1 High Priority
+Bastar,Bastar,Tokapal,Zone Zone 3,1.53,36.3,85.58,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.014,81.898,48.0,6.0,15.2,44.5,41.08,271.13,Tier 1 High Priority
+Bilaspur,Raigarh,Tamnar,Zone Zone 2,1.51,66.0,67.12,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.137,83.479,55.0,8.0,27.7,34.9,32.22,286.76,Tier 1 High Priority
+Raipur,Gariaband,Deobhog,Zone Zone 2,1.49,64.4,66.65,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.198,82.553,55.0,8.0,27.0,34.66,31.99,227.13,Tier 1 High Priority
+Bilaspur,Korba,Kartala,Zone Zone 2,1.45,62.0,65.14,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.139,82.817,55.0,8.0,26.0,33.87,31.27,337.72,Tier 1 High Priority
+Bastar,Uttar Bastar Kanker,Kanker,Zone Zone 2,1.44,62.0,64.61,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.222,81.517,48.0,6.0,26.0,33.6,31.01,282.19,Tier 1 High Priority
+Bilaspur,Korba,Korba,Zone Zone 2,1.38,62.0,60.17,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.409,82.7,55.0,8.0,26.0,31.29,28.88,265.7,Tier 1 High Priority
+Durg,Mohla-Manpur-Ambagarh Chowki,Mohla,Zone Zone 2,1.35,62.0,58.16,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.525,80.801,55.0,8.0,26.0,30.24,27.92,189.86,Tier 1 High Priority
+Durg,Kabirdham,Bodla,Zone Zone 2,1.31,58.0,57.67,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.151,81.139,55.0,8.0,24.4,29.99,27.68,204.83,Tier 1 High Priority
+Durg,Kabirdham,Sahaspur Lohara,Zone Zone 2,1.25,50.4,58.37,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.873,81.163,55.0,8.0,21.2,30.35,28.02,330.64,Tier 2 Priority
+Bastar,Dakshin Bastar Dantewada,Dantewada,Zone Zone 3,1.24,36.3,65.7,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.845,81.352,48.0,6.0,15.2,34.16,31.54,205.01,Tier 2 Priority
+Bastar,Uttar Bastar Kanker,Durgkondal,Zone Zone 3,1.19,36.3,61.88,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.373,80.87,48.0,6.0,15.2,32.18,29.7,175.23,Tier 2 Priority
+Surguja,Surguja,Sitapur,Zone Zone 3,1.17,44.7,55.78,Solar-Powered Horticultural Cold Chain & Aggregation Center (Tomato/Litchi/Ginger),22.834,83.562,65.0,10.0,18.8,29.01,26.77,216.84,Tier 2 Priority
+Bastar,Uttar Bastar Kanker,Narharpur,Zone Zone 2,1.12,50.0,49.18,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),20.437,81.683,48.0,6.0,21.0,25.57,23.61,198.32,Tier 2 Priority
+Durg,Mohla-Manpur-Ambagarh Chowki,Ambagarh Chowki,Zone Zone 2,1.11,45.2,51.37,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.781,80.788,55.0,8.0,19.0,26.71,24.66,226.87,Tier 2 Priority
+Bilaspur,Sarangarh-Bilaigarh,Bilaigarh,Zone Zone 1,1.11,47.0,50.33,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.592,82.746,55.0,8.0,19.7,26.17,24.16,415.55,Tier 2 Priority
+Bilaspur,Janjgir-Champa,Bamhnidih,Zone Zone 1,1.1,47.0,49.36,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.948,82.724,55.0,8.0,19.7,25.67,23.69,388.52,Tier 2 Priority
+Durg,Bemetara,Berla,Zone Zone 1,1.09,47.0,48.56,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.553,81.54,55.0,8.0,19.7,25.25,23.31,424.24,Tier 2 Priority
+Raipur,Gariaband,Gariaband,Zone Zone 2,1.07,46.0,48.05,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.013,82.072,55.0,8.0,19.3,24.99,23.06,196.01,Tier 2 Priority
+Bilaspur,Bilaspur,Takhatpur,Zone Zone 1,1.06,46.7,46.9,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.148,81.871,55.0,8.0,19.6,24.39,22.51,414.18,Tier 2 Priority
+Raipur,Mahasamund,Mahasamund,Zone Zone 1,1.05,47.0,45.74,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.059,82.148,55.0,8.0,19.7,23.78,21.96,351.36,Tier 2 Priority
+Durg,Durg,Durg,Zone Zone 1,1.05,47.0,46.18,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.214,81.309,55.0,8.0,19.7,24.01,22.17,365.81,Tier 2 Priority
+Durg,Balod,Gunderdehi,Zone Zone 1,1.05,47.0,45.74,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.995,81.273,55.0,8.0,19.7,23.78,21.96,390.89,Tier 2 Priority
+Bilaspur,Raigarh,Gharghoda,Zone Zone 2,1.05,45.6,46.69,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.114,83.326,55.0,8.0,19.2,24.28,22.41,215.14,Tier 2 Priority
+Bilaspur,Sarangarh-Bilaigarh,Sarangarh,Zone Zone 1,1.05,47.0,45.74,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.639,83.132,55.0,8.0,19.7,23.78,21.96,390.89,Tier 2 Priority
+Raipur,Baloda Bazar-Bhatapara,Baloda Bazar,Zone Zone 1,1.04,43.7,47.1,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.712,82.139,55.0,8.0,18.4,24.49,22.61,440.89,Tier 2 Priority
+Bilaspur,Janjgir-Champa,Baloda,Zone Zone 1,1.04,43.3,47.47,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.198,82.511,55.0,8.0,18.2,24.68,22.79,382.87,Tier 2 Priority
+Bilaspur,Sakti,Sakti,Zone Zone 1,1.04,46.7,45.49,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.977,82.911,55.0,8.0,19.6,23.65,21.84,382.2,Tier 2 Priority
+Raipur,Dhamtari,Kurud,Zone Zone 1,1.02,43.7,45.6,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.831,81.663,55.0,8.0,18.4,23.71,21.89,361.19,Tier 2 Priority
+Raipur,Raipur,Tilda,Zone Zone 1,1.01,45.3,44.48,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.512,81.815,55.0,8.0,19.0,23.13,21.35,326.66,Tier 2 Priority
+Raipur,Mahasamund,Bagbahara,Zone Zone 1,1.01,40.3,47.48,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.915,82.328,55.0,8.0,16.9,24.69,22.79,337.29,Tier 2 Priority
+Durg,Balod,Dondi Lohara,Zone Zone 1,1.01,40.7,47.3,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.735,81.042,55.0,8.0,17.1,24.6,22.7,354.12,Tier 2 Priority
+Bilaspur,Raigarh,Lailunga,Zone Zone 2,0.99,40.0,46.16,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.446,83.543,55.0,8.0,16.8,24.0,22.16,217.17,Tier 2 Priority
+Bilaspur,Sakti,Dabhra,Zone Zone 1,0.98,43.7,43.22,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.728,83.192,55.0,8.0,18.4,22.47,20.75,369.35,Tier 2 Priority
+Bastar,Bijapur,Bhopalpatnam,Zone Zone 3,0.98,36.3,47.43,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.829,80.385,48.0,6.0,15.2,24.66,22.77,100.19,Tier 2 Priority
+Raipur,Dhamtari,Dhamtari,Zone Zone 1,0.97,40.0,44.59,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.657,81.549,55.0,8.0,16.8,23.19,21.4,303.88,Tier 2 Priority
+Bilaspur,Sakti,Jaijaipur,Zone Zone 1,0.97,40.0,44.59,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.898,82.848,55.0,8.0,16.8,23.19,21.4,365.94,Tier 2 Priority
+Bilaspur,Mungeli,Pathariya,Zone Zone 1,0.95,38.3,44.47,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.992,81.765,55.0,8.0,16.1,23.12,21.35,345.87,Tier 2 Priority
+Durg,Bemetara,Bemetara,Zone Zone 1,0.94,40.0,42.47,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.726,81.595,55.0,8.0,16.8,22.08,20.39,397.61,Tier 2 Priority
+Durg,Rajnandgaon,Dongargaon,Zone Zone 1,0.94,37.0,43.99,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.922,80.904,55.0,8.0,15.5,22.87,21.12,312.58,Tier 2 Priority
+Bilaspur,Sarangarh-Bilaigarh,Baramkela,Zone Zone 1,0.94,40.0,42.47,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.662,83.392,55.0,8.0,16.8,22.08,20.39,348.67,Tier 2 Priority
+Bastar,Dakshin Bastar Dantewada,Geedam,Zone Zone 3,0.94,40.1,42.61,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.935,81.373,48.0,6.0,16.8,22.16,20.45,145.19,Tier 2 Priority
+Bilaspur,Janjgir-Champa,Nawagarh,Zone Zone 1,0.92,32.0,45.49,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.924,82.648,55.0,8.0,13.4,23.65,21.84,397.49,Tier 2 Priority
+Bilaspur,Sakti,Malkharoda,Zone Zone 1,0.92,40.0,41.23,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.865,83.049,55.0,8.0,16.8,21.44,19.79,324.56,Tier 2 Priority
+Raipur,Raipur,Arang,Zone Zone 1,0.91,40.0,40.44,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.246,81.918,55.0,8.0,16.8,21.03,19.41,341.62,Tier 2 Priority
+Raipur,Gariaband,Fingeshwar,Zone Zone 1,0.91,40.0,40.44,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.968,81.936,55.0,8.0,16.8,21.03,19.41,248.45,Tier 2 Priority
+Raipur,Dhamtari,Nagri,Zone Zone 2,0.91,34.0,43.52,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.552,81.871,55.0,8.0,14.3,22.63,20.89,165.03,Tier 2 Priority
+Bilaspur,Bilaspur,Belha,Zone Zone 1,0.91,40.0,40.44,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.986,82.139,55.0,8.0,16.8,21.03,19.41,333.85,Tier 2 Priority
+Raipur,Gariaband,Mainpur,Zone Zone 2,0.9,36.4,41.63,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.763,82.262,55.0,8.0,15.3,21.65,19.98,123.88,Tier 2 Priority
+Bastar,Dakshin Bastar Dantewada,Kuakonda,Zone Zone 3,0.9,36.3,42.0,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),18.698,81.508,48.0,6.0,15.2,21.84,20.16,92.74,Tier 2 Priority
+Bastar,Bastar,Bakawand,Zone Zone 3,0.87,36.3,39.78,Tribal Millet & Minor Forest Produce Processing Hub (Kodo-Kutki/Ragi/Mahua/Tamarind),19.189,82.139,48.0,6.0,15.2,20.69,19.09,164.17,Tier 2 Priority
+Durg,Balod,Balod,Zone Zone 1,0.86,37.3,38.42,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.73,81.23,55.0,8.0,15.7,19.98,18.44,265.54,Tier 2 Priority
+Bilaspur,Korba,Katghora,Zone Zone 2,0.86,36.4,38.77,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.508,82.503,55.0,8.0,15.3,20.16,18.61,189.82,Tier 2 Priority
+Raipur,Baloda Bazar-Bhatapara,Simga,Zone Zone 1,0.85,37.0,38.17,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.653,81.655,55.0,8.0,15.5,19.85,18.32,335.26,Tier 2 Priority
+Durg,Bemetara,Saja,Zone Zone 1,0.85,37.0,38.17,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.713,81.259,55.0,8.0,15.5,19.85,18.32,346.25,Tier 2 Priority
+Durg,Khairagarh-Chhuikhadan-Gandai,Chhuikhadan,Zone Zone 1,0.85,36.7,37.91,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.484,81.013,55.0,8.0,15.4,19.71,18.2,271.18,Tier 2 Priority
+Bilaspur,Bilaspur,Masturi,Zone Zone 1,0.85,36.7,38.09,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.013,82.235,55.0,8.0,15.4,19.81,18.28,349.15,Tier 2 Priority
+Bilaspur,Raigarh,Raigarh,Zone Zone 1,0.84,31.7,40.22,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.947,83.42,55.0,8.0,13.3,20.91,19.31,312.82,Tier 2 Priority
+Durg,Khairagarh-Chhuikhadan-Gandai,Khairagarh,Zone Zone 1,0.82,31.7,38.81,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.368,80.953,55.0,8.0,13.3,20.18,18.63,298.08,Tier 2 Priority
+Raipur,Gariaband,Chhura,Zone Zone 2,0.81,34.0,36.96,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.1,82.235,55.0,8.0,14.3,19.22,17.74,173.85,Tier 2 Priority
+Raipur,Mahasamund,Pithora,Zone Zone 1,0.81,31.7,37.92,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.317,82.518,55.0,8.0,13.3,19.72,18.2,305.76,Tier 2 Priority
+Durg,Durg,Patan,Zone Zone 1,0.81,31.7,38.1,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.034,81.561,55.0,8.0,13.3,19.81,18.29,351.17,Tier 2 Priority
+Raipur,Raipur,Dharsiwa,Zone Zone 1,0.79,31.7,36.95,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.34,81.72,55.0,8.0,13.3,19.21,17.74,204.01,Tier 2 Priority
+Raipur,Baloda Bazar-Bhatapara,Palari,Zone Zone 1,0.79,31.7,36.51,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.584,82.248,55.0,8.0,13.3,18.99,17.52,294.34,Tier 2 Priority
+Durg,Durg,Dhamdha,Zone Zone 1,0.79,33.7,35.64,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.392,81.262,55.0,8.0,14.2,18.53,17.11,350.75,Tier 2 Priority
+Durg,Kabirdham,Kawardha,Zone Zone 1,0.79,31.7,36.87,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.987,81.296,55.0,8.0,13.3,19.17,17.7,286.74,Tier 2 Priority
+Raipur,Mahasamund,Basna,Zone Zone 1,0.78,31.7,36.34,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.439,82.772,55.0,8.0,13.3,18.9,17.44,282.53,Tier 2 Priority
+Bilaspur,Mungeli,Mungeli,Zone Zone 1,0.78,33.3,35.39,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.117,81.691,55.0,8.0,14.0,18.4,16.99,336.4,Tier 2 Priority
+Bilaspur,Janjgir-Champa,Akaltara,Zone Zone 1,0.78,31.7,36.42,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.022,82.428,55.0,8.0,13.3,18.94,17.48,295.41,Tier 2 Priority
+Bilaspur,Janjgir-Champa,Pamgarh,Zone Zone 1,0.78,31.7,36.16,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.907,82.485,55.0,8.0,13.3,18.8,17.36,310.74,Tier 2 Priority
+Bilaspur,Raigarh,Kharsia,Zone Zone 1,0.78,33.3,35.39,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.023,83.15,55.0,8.0,14.0,18.4,16.99,268.44,Tier 2 Priority
+Raipur,Baloda Bazar-Bhatapara,Kasdol,Zone Zone 1,0.77,31.7,35.1,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.571,82.452,55.0,8.0,13.3,18.25,16.85,320.15,Tier 2 Priority
+Raipur,Dhamtari,Magarlod,Zone Zone 1,0.77,31.7,35.1,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),20.73,81.815,55.0,8.0,13.3,18.25,16.85,198.83,Tier 2 Priority
+Durg,Rajnandgaon,Rajnandgaon,Zone Zone 1,0.77,31.7,35.28,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.146,81.032,55.0,8.0,13.3,18.35,16.93,291.2,Tier 2 Priority
+Bilaspur,Mungeli,Lormi,Zone Zone 1,0.77,31.7,35.72,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),22.228,81.662,55.0,8.0,13.3,18.57,17.15,282.97,Tier 2 Priority
+Bilaspur,Raigarh,Pusaur,Zone Zone 1,0.76,31.7,35.01,Decentralized FPO Modern Parboiling Mini Rice Mill (8 MT/Day),21.808,83.389,55.0,8.0,13.3,18.21,16.8,258.72,Tier 2 Priority
